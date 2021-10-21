@@ -21,3 +21,9 @@ Lens: 3.6mm
 |554|tcp|rtsp|
 |6789|tcp|????|
 |8000|tcp|????|
+
+
+## Root Shadow hash
+
+- root:$1$5SEPkdjX$sSUPW31/K3Cj/1TfW2cz01:0:0:99999:7:::
+
