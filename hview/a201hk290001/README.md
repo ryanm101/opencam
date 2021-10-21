@@ -12,3 +12,11 @@ Lens: 3.6mm
 - [MD25Q64CSIG](https://www.gigadevice.com/datasheet/gd25q64c/)
 - [RTL8201](http://realtek.info/pdf/rtl8201.pdf)
 
+## Open Ports
+
+|Port|Proto|Process|
+|-|-|-|
+|80|tcp|http|
+|554|tcp|rtsp|
+|6789|tcp|????|
+|8000|tcp|????|
