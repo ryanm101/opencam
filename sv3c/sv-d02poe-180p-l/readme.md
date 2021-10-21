@@ -12,3 +12,9 @@
 - [MX25L6436F](https://www.macronix.com/Lists/Datasheet/Attachments/7405/MX25L6436F,%203V,%2064Mb,%20v1.2.pdf)
 - 
 
+## Open Ports
+
+|Port|Proto|Process|
+|-|-|-|
+|80|tcp|http|
+|554|tcp|rtsp|
