@@ -13,6 +13,7 @@ Ideally the camera will povide two streams 1 and 2 so as to allow a high def str
 
 - [Extract and mount jffs2](https://blog.bramp.net/post/2012/01/24/hacking-linksys-e4200v2-firmware/)
 - [Dump SPI Flash](https://akimbocore.com/article/extracting-flash-memory-over-spi/)  
+- [Extracting files from Camera](https://felipe.astroza.cl/hacking-hi3815-based-ip-camera/)
 
 ### Other useful projects
 
